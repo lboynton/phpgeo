@@ -1,5 +1,5 @@
 {
-    "name": "mjaschen/phpgeo",
+    "name": "lboynton/phpgeo",
     "description": "Simple Geo Library",
     "keywords": ["distance", "coordinate", "geo", "gis", "bounds", "ellipsoid", "calculation"],
     "homepage": "https://github.com/mjaschen/phpgeo",
